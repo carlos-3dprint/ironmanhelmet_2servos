@@ -1,0 +1,27 @@
+Bill of Materials
+
+1 x SN74LS14N 
+1 x Push button
+1 x 1 K Ω Resistor
+1 x 10 K Ω Resistor
+6 x 220 Ω Resistor
+6 x LEDs (White)
+1 x 10uF Capacitor 
+2 x MG90s Servos
+1 x Arduino NANO (or UNO)
+
+
+For power up the helmet we have 2 options...
+
+Option 1: 
+1 x 9VDC batteries
+
+Option 2:
+1 x TP4056 (Lithium Battery Charging Board)
+1 x 3.7 VDC lithium rechargeable battery ( 2 000 mAh)
+
+Recommendations
+- Test everything on a Breadboard before installing on the helmet
+- You will need some wires and jumpers for wiring
+- It is important to protect every LiPo battery wit a TP4056 board, as they can get damaged if we don't have this protection
+- Go for a curstom PCB board if you have any around
